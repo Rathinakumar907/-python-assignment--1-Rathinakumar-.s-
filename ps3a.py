@@ -1,3 +1,5 @@
+# collaborators vaibhav , anbuchelvan ,yoshithaa ,suneethra ,narbavee, mourya
+
 starting_salary = float(input("Enter the starting salary: "))
 total_cost = float(input("Enter the cost of your dream home: "))
 semi_annual_raise = float(input("Enter the semi annual raise, as a decimal: "))
